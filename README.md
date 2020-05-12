@@ -6,5 +6,5 @@ Utilizamos TypeScript e ReactJS para criar uma aplicação que consome a API do 
 ## Tela inicial:
 ![inicio](https://user-images.githubusercontent.com/30738742/81631128-9419dd80-93dd-11ea-8c1f-5c4fed09ebc7.png)
 
-## Detalhe mostrando Stars Forks e Issues abertas:
+## Detalhe mostrando Stars, Forks e Issues abertas:
 ![detalhe](https://user-images.githubusercontent.com/30738742/81631126-92e8b080-93dd-11ea-9934-ae0d735fd720.png)
